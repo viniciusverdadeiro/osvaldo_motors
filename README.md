@@ -1,2 +1,1 @@
-[Diagrama DER](./diagrama_osvaldo.png
-)
+[Diagrama DER](./diagrama_osvaldo.png)
