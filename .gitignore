@@ -1,0 +1,4 @@
+# Ignorar configurações e senhas locais
+.env
+node_modules/
+
